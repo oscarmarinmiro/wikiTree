@@ -12,10 +12,9 @@
   "license": "MIT",
   "dependencies": {
     "aframe": "^0.8.2",
-    "three.meshline": "latest",
-    "aframe-environment-component": "latest",
+    "aframe-environment-component": "^1.1.0",
     "aframe-uipack-component": "git+https://github.com/oscarmarinmiro/aframe-uipack.git#v1",
-    "d3": "latest"
+    "d3": "^5.9.0"
   },
   "devDependencies": {
     "parcel-bundler": "^1.4.1"

@@ -1,7 +1,9 @@
 require('aframe');
 require('aframe-uipack-component');
-require('components/tree-components');
-require('components/tree-viz');
+require('aframe-environment-component');
+require('./components/tree-components.js');
+require('./components/tree-viz.js');
+
 
 
 
