@@ -1,0 +1,22 @@
+{
+  "name": "wiki_trees_in_vr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx parcel index.html",
+    "build": "npx parcel build index.html --public-url ./",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Oscar Marin <oscar@outliers.es>",
+  "license": "MIT",
+  "dependencies": {
+    "aframe": "^0.8.2",
+    "aframe-environment-component": "^1.1.0",
+    "aframe-uipack-component": "git+https://github.com/oscarmarinmiro/aframe-uipack.git#v1",
+    "d3": "^5.9.0"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.4.1"
+  }
+}
