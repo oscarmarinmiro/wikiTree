@@ -159,7 +159,7 @@ AFRAME.registerComponent('tree-viz', {
                 icon.setAttribute("position", self.convert(0, self.long_scale(el.x), -0.1*1.5));
                 icon.setAttribute("rotation", "-90 " + (-self.long_scale(el.x)) + " 0");
 
-                icon.setAttribute("uipack-button", {'theme': 'light', icon_name : AFRAME_UIPACK.UIPACK_CONSTANTS.play_icon, radius: 0.1});
+                icon.setAttribute("uipack-button", {'theme': 'light', icon_name : AFRAME.UIPACK.UIPACK_CONSTANTS.play_icon, radius: 0.1});
 
                 element.appendChild(icon);
 
@@ -861,7 +861,7 @@ AFRAME.registerComponent('tree-viz', {
 
             // Set cursor
 
-            AFRAME_UIPACK.utils.set_cursor(self.el.sceneEl, 'light');
+            AFRAME.UIPACK.utils.set_cursor(self.el.sceneEl, 'light');
 
         });
 
