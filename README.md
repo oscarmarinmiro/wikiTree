@@ -1,4 +1,4 @@
-# wiki_tree
+# Visualizing Wikipedia as a tree in XR
 
 Just an experiment to research UI/UX for tree structures in VR.
 
