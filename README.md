@@ -1,8 +1,6 @@
 # Visualizing Wikipedia as a tree in VR
 
-![image2](vr_tree.jpg)
-
-[<img src="vr_tree.jpg">](http://google.com.au/)
+[<img src="vr_tree.jpg">](https://oscarmarinmiro.github.io/wikiTree/)
 
 Just an experiment to research UI/UX for tree structures in VR. 
 
