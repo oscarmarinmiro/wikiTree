@@ -2,7 +2,7 @@
 
 ![image2](vr_tree.jpg)
 
-[<img src="vr_tree.jpng">](http://google.com.au/)
+[<img src="vr_tree.jpg">](http://google.com.au/)
 
 Just an experiment to research UI/UX for tree structures in VR. 
 
