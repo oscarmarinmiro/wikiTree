@@ -1,3 +1,4 @@
+// From https://github.com/andreasplesch/aframe-meshline-component, added transparency
 AFRAME.registerComponent('meshline', {
   schema: {
     color: { default: '#000' },
@@ -101,6 +102,7 @@ AFRAME.registerComponent('meshline', {
   }
 });
 
+// From https://github.com/spite/THREE.MeshLine, could not get the npm import working
 
 if( !THREE )
 	throw new Error( 'MeshLine requires three.js' );
