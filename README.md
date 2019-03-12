@@ -2,7 +2,9 @@
 
 [<img src="vr_tree.jpg">](https://oscarmarinmiro.github.io/wikiTree/)
 
-Just an experiment to research UI/UX for tree structures in VR. You can read more about it here: https://medium.com/@oscarmarinmiro/https-medium-com-oscarmarinmiro-visualising-wikipedia-articles-in-xr-4b1b1164a780
+Just an experiment to research UI/UX for tree structures in VR. 
+
+You can read more about it [here](https://medium.com/@oscarmarinmiro/https-medium-com-oscarmarinmiro-visualising-wikipedia-articles-in-xr-4b1b1164a780)
 
 Live demo at https://oscarmarinmiro.github.io/wikiTree/
 
